@@ -37,9 +37,11 @@ This web application classifies the customer as potential customer or highly or 
 3. It shows the type of cutomer in the same page.
    
 ### Inputs
-![input](https://github.com/ch-sravya1712/CustomerSegmentation/assets/94795846/3ac3b200-da16-4649-bfe2-80f1097c56de)
+![image](https://github.com/user-attachments/assets/d1e311be-ea69-4b97-9ca0-ff66c6c9cfd1)
+
 ### Output
-![output](https://github.com/ch-sravya1712/CustomerSegmentation/assets/94795846/e6157d61-8c86-436a-a86b-e10b2217b645)
+![image](https://github.com/user-attachments/assets/22ce8878-1e36-424a-918d-f154cfc0b161)
+
 
 
 
